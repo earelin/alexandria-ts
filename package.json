@@ -6,6 +6,7 @@
   "author": "Xavier Carriba <xavier.carriba@gmail.com>",
   "license": "MIT",
   "scripts": {
+    "build": "tsc",
     "lint": "eslint src"
   },
   "devDependencies": {
